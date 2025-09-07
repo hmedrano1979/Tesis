@@ -1,0 +1,29 @@
+{
+  "metadata": {
+    "titulo": "Análisis del Rendimiento Académico y Valor Agregado 2017-2024",
+    "institucion": "Tecnológico en TIC",
+    "periodo_estudio": "2017-2024",
+    "fecha_analisis": "2025-09-07",
+    "n_muestras": 7,
+    "n_variables": 226
+  },
+  "resumen_ejecutivo": {
+    "valor_agregado_promedio": -2.458350983098561e-17,
+    "mejor_competencia": "VA_ESTANDAR_PRO_INGLES",
+    "peor_competencia": "VA_ESTANDAR_TYT_PUNTAJE_GLOBAL",
+    "tendencia_general": "Estable"
+  },
+  "hallazgos_principales": [
+    {
+      "hallazgo": "Método de valor agregado más efectivo",
+      "detalle": "El método VA_SIMPLE_PRO_COMPETENCIAS_CIUDADANAS muestra el mayor porcentaje de mejora (100.00%)"
+    }
+  ],
+  "recomendaciones": [
+    {
+      "area": "Lectura Crítica",
+      "recomendacion": "Implementar programa de comprensión lectora avanzada",
+      "prioridad": "Alta"
+    }
+  ]
+}

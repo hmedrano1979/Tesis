@@ -1,0 +1,6 @@
+,S11_res_S11_PUNT_GLOBAL,S11_res_S11_PUNT_GLOBAL,S11_res_S11_PUNT_GLOBAL,STYT_res_STYT_PUNT_GLOBAL,STYT_res_STYT_PUNT_GLOBAL,VA_ESTANDAR_TYT_LECTURA_CRITICA,VA_ESTANDAR_TYT_LECTURA_CRITICA
+,mean,std,count,mean,std,mean,std
+segmento_rendimiento,,,,,,,
+Alto rendimiento,285.0,49.03,3,103.67,17.79,0.78,0.24
+Bajo rendimiento,266.0,,1,97.0,,-1.96,
+Rendimiento esperado,277.67,24.17,3,115.67,9.07,-0.13,0.26

@@ -1,0 +1,30 @@
+{
+  "procesos_realizados": [
+    "Carga y filtrado de datos",
+    "Imputación multivariante con MICE",
+    "Equiparación de puntajes",
+    "Cálculo de valor agregado multimetodo",
+    "Análisis exploratorio completo",
+    "Análisis estadístico avanzado",
+    "Identificación de patrones",
+    "Generación de visualizaciones académicas"
+  ],
+  "tecnicas_utilizadas": [
+    "Imputación múltiple por ecuaciones encadenadas (MICE)",
+    "Equiparación lineal de puntajes",
+    "Análisis de componentes principales (PCA)",
+    "Modelos de regresión múltiple",
+    "Análisis de clusters (K-means, GMM, DBSCAN)",
+    "Análisis de varianza (ANOVA)",
+    "Análisis de correlación de Spearman",
+    "Modelos de efectos mixtos"
+  ],
+  "referencias_bibliograficas": [
+    "Raudenbush, S. W., & Willms, J. D. (1995). The estimation of school effects.",
+    "McCaffrey, D. F., et al. (2003). Evaluating value-added models for teacher accountability.",
+    "Braun, H. (2005). Using student progress to evaluate teachers.",
+    "Betebenner, D. W. (2009). Norm- and criterion-referenced student growth.",
+    "Van Buuren, S. (2018). Flexible Imputation of Missing Data.",
+    "Kolen, M. J., & Brennan, R. L. (2014). Test Equating, Scaling, and Linking."
+  ]
+}
